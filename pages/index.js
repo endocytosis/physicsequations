@@ -53,7 +53,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{'Stackblitz'}
+          Powered by {'Stackblitz'}
         </a>
       </footer>
     </div>
