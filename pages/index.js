@@ -20,7 +20,7 @@ export default function Home() {
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Electricity and Magnetism &rarr;</h3>
+            <h3>E&apm;M &rarr;</h3>
             <p>Electrostatics, Circuits, Fields, Electromagnetism...</p>
           </a>
 
@@ -29,7 +29,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Modern &rarr;</h3>
-            <p>Quantum Mechanics, Special Relativity, General Relativity</p>
+            <p>Quantum Mechanics, Special Relativity, General Relativity...</p>
           </a>
         </div>
       </main>
