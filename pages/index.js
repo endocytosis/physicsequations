@@ -11,7 +11,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>Phyiscs Equations</h1>
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="#" className={styles.card}>
             <h3>Mechanics &rarr;</h3>
             <p>
               Kinematics, Newton's Laws, Work, Energy, Power, Rotational
@@ -19,15 +19,12 @@ export default function Home() {
             </p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="#" className={styles.card}>
             <h3>E&amp;M &rarr;</h3>
             <p>Electrostatics, Circuits, Fields, Electromagnetism...</p>
           </a>
 
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
+          <a href="#" className={styles.card}>
             <h3>Modern &rarr;</h3>
             <p>Quantum Mechanics, Special Relativity, General Relativity...</p>
           </a>
