@@ -5,17 +5,11 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Physics Equations</title>
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>Phyiscs Equations</h1>
-
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
-
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Mechanics &rarr;</h3>
