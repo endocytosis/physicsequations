@@ -20,7 +20,7 @@ export default function Home() {
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>E&apm;M &rarr;</h3>
+            <h3>E&amp;M &rarr;</h3>
             <p>Electrostatics, Circuits, Fields, Electromagnetism...</p>
           </a>
 
