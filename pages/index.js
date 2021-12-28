@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Phyiscs Equations</h1>
+        <h1 className={styles.title}>Physics Equations</h1>
         <div className={styles.grid}>
           <a href="#" className={styles.card}>
             <h3>Mechanics &rarr;</h3>
