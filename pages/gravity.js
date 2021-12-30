@@ -7,7 +7,7 @@ function Gravity() {
       <div>Gravity</div>
       <p>
         Newton's Universal Law of Graviation:
-        <img src="img/newtongravity.svg" />
+        <img src="newtongravity.svg" />
       </p>
     </div>
   );
