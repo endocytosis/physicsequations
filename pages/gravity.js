@@ -6,7 +6,7 @@ function Gravity() {
     <div className={styles.container}>
       <div>Gravity</div>;
       <p>
-        Newton's Universal Law of Graviation is:
+        Newton's Universal Law of Graviation:
         <img src="img/newtongravity.svg" />
       </p>
     </div>
